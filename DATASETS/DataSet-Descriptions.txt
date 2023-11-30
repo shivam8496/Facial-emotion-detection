@@ -1,0 +1,26 @@
+48x48 pixel grayscale images of faces.
+
+The faces have been automatically registered so that the face is more or less centred and occupies about the same amount of space in each image
+
+Pixels                =	        48 X 48 
+Horizontal resolution = 	96 dpi
+Vertical resolution   =         96 dpi
+Bit depth 	      =          8
+
+Expressions         Tags        Training-Samples
+
+Angry 		    0		3995
+
+Disgust	 	    1           436
+
+Fear		    2		4097
+
+Happy 		    3   	7215
+
+Sad 		    4		4830
+
+Surprise	    5 		3171
+
+Neutral		    6 		4965
+
+
